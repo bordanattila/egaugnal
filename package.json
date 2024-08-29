@@ -12,17 +12,16 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "@vitalets/google-translate-api": "github:vitalets/google-translate-api",
-        "bcrypt": "^5.1.0",
-        "connect-session-sequelize": "^7.1.5",
-        "dotenv": "^16.0.3",
-        "express": "^4.18.2",
-        "express-handlebars": "^6.0.6",
-        "express-session": "^1.17.3",
+        "@vitalets/google-translate-api": "^9.2.0",
+        "bcrypt": "^5.1.1",
+        "connect-session-sequelize": "^7.1.7",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.2",
+        "express-handlebars": "^8.0.1",
+        "express-session": "^1.18.0",
         "google-tts-api": "^2.0.2",
         "handlebars": "^4.7.6",
-        "handlebars-async-helpers": "^1.0.6",
-        "mysql2": "^2.3.3",
-        "sequelize": "^6.24.0"
+        "mysql2": "^3.11.0",
+        "sequelize": "^6.37.3"
     }
 }
